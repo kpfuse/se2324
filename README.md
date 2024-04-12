@@ -1,4 +1,7 @@
 <br>
+Куда сдать лабораторную работу 05.<br>
+09-253 (срок 18.04.24 23:59) https://classroom.github.com/a/PAGw_Gav <br>
+09-252 (срок 18.04.24 23:59) https://classroom.github.com/a/E_7UuFxf <br>
 <br>
 Куда сдать лабораторную работу 02. Часть 1:<br>
 09-253 (срок 04.03.2024) - https://classroom.github.com/a/9dsnIJtT <br>
